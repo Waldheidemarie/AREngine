@@ -4,7 +4,7 @@ plugins {
 }
 
 dependencies {
-    implementation(project(ProjectModules.arSdk))
+    implementation(Dependencies.Huawei.arEngine)
     implementation(Dependencies.AndroidX.annotation)
     implementation(Dependencies.AndroidX.coreKtx)
 }

@@ -36,6 +36,7 @@ object Versions {
     const val coreTesting = "1.1.1"
     const val hilt = "2.28-alpha"
     const val javaGlObj = "0.3.0"
+    const val arEngineSdk = "2.12.0.1"
 }
 
 object BuildDependencies {
@@ -92,8 +93,11 @@ object Dependencies {
     }
 
     object Rendering {
-        const val javaGlObject =
-            "de.javagl:obj:${Versions.javaGlObj}"
+        const val javaGlObject = "de.javagl:obj:${Versions.javaGlObj}"
+    }
+
+    object Huawei {
+        const val arEngine = "com.huawei.hms:arenginesdk:${Versions.arEngineSdk}"
     }
 }
 
