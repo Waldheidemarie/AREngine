@@ -13,7 +13,6 @@ This is the version that fits into <b>Windows</b>.
 * **presentation** - Android module that contains the VMs used in the app.
 * **arEngineCommon** - Java module that contains the AREngine common classes.
 * **rendering** - Java module that contains the basic classes that manage the render mechanism.
-* **arSdk** - Contains the artifact aar 'HUAWEI_AR_SDK_vX.XX.XX' with all of the AR capabilities.
 
 
 #  License
