@@ -3,6 +3,7 @@ buildscript {
     repositories {
         google()
         jcenter()
+        maven ("http://developer.huawei.com/repo/")
     }
     dependencies {
         classpath(BuildDependencies.androidGradle)
@@ -17,6 +18,8 @@ allprojects {
     repositories {
         google()
         jcenter()
+        maven ("http://developer.huawei.com/repo/")
+        maven ("http://jcenter.bintray.com")
     }
 }
 
