@@ -20,6 +20,20 @@ This is an optimized repository AREngine Huawei SDK. Suitable for <b>Windows</b>
 * **arEngineCommon** - Java module that contains the AREngine common classes.
 * **rendering** - Java module that contains the basic classes that manage the render mechanism.
 
+## Samples
+
+There are four examples that could be used as start point:
+* World Sample
+* Face Sample
+* Hand Sample
+* Body Sample
+
+<p align="center">
+    <img src="art/World-AR.gif"/>
+    <img src="art/Face-AR.gif"/>
+    <img src="art/Hand-AR.gif"/>
+    <img src="art/Body-AR.gif"/>
+</p>
 
 #  License
 
